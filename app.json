@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "POPKID;;;rYVgESJR#gVQYM2oFta1CAWHlBUw9sC6UC5N389dR2jGUigjktkI.",
       "required": true,
       "value": ""
     },  
@@ -19,7 +19,7 @@
       "value": "POPKID-MD"
     }, 
       
-    "PREFIX": {
+    "PREFIX": {.
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
       "value": "."
@@ -33,7 +33,7 @@
     },
     
     
-    "ALWAYS_ONLINE": {
+    "ALWAYS_ONLINE": {true
       "description": "Make it true if want always online.",
       "required": false,
       "value": "false"  
@@ -58,13 +58,13 @@
     }, 
 
 
-    "AUTO_STATUS_SEEN": {
+    "AUTO_STATUS_SEEN": {true
       "description": "Make it true for automatic status seen.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_STATUS_REACT": {
+    "AUTO_STATUS_REACT": {true
       "description": "make it true for automatic status reaction or like.",
       "required": true,
       "value": "true"
@@ -83,12 +83,12 @@
    
      }, 
     
-    "OWNER_NAME": {
+    "OWNER_NAME": {jolly🎉
       "description": "Type Bot Owner Name.",
       "required": false,
       "value": "POPKID🎉"
 }, 
-
+2349165563795
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
@@ -96,7 +96,7 @@
 
     }, 
 
-    "BOT_NAME": {
+    "BOT_NAME": {jolly
       "description": "Type here the bot name.",
       "required": true,
       "value": "POPKID-MD"
@@ -153,7 +153,7 @@
       "value": "true"
     },
 
-    "AUTO_TYPING": {
+    "AUTO_TYPING": {true
       "description": "Make it true if you want auto typing.",
       "required": false,
       "value": "false"
