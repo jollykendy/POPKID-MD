@@ -19,7 +19,7 @@
       "value": "POPKID-MD"
     }, 
       
-    "PREFIX": {.
+    "PREFIX": {"."
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
       "value": "."
@@ -83,7 +83,7 @@
    
      }, 
     
-    "OWNER_NAME": {jolly🎉
+    "OWNER_NAME": 
       "description": "Type Bot Owner Name.",
       "required": false,
       "value": "POPKID🎉"
@@ -96,7 +96,7 @@
 
     }, 
 
-    "BOT_NAME": {jolly
+    "BOT_NAME": {"jolly"
       "description": "Type here the bot name.",
       "required": true,
       "value": "POPKID-MD"
