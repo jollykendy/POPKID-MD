@@ -33,7 +33,7 @@
     },
     
     
-    "ALWAYS_ONLINE": {true
+    "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
       "value": "false"  
@@ -64,7 +64,7 @@
       "value": "true"
     }, 
 
-    "AUTO_STATUS_REACT": {true
+    "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
       "value": "true"
